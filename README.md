@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my GitHub profile
+
+## About me
+I'm Bengin, a Computer Science and Engineering Student
+
+## Contact me
+https://benginsternas.com
 
 <!--
 **benginsternas/benginsternas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
